@@ -17,6 +17,7 @@ class Employee:
 
     '''now we create a object of the class '''
 Nikhil = Employee("nikhil","dubey",100000)
+# Nikhil is a instance variable
 Preeto = Employee("preeto","sahu",100000)
 
 '''now we try to access the vlaue'''
